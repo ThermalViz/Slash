@@ -16,7 +16,6 @@ local tweenService = game:GetService("TweenService")
 local RunService = game:GetService("RunService")
 
 --Assign local player and mouse 
-
 local player  = Players.LocalPlayer
 local char = player.Character
 local playerHRP = char.HumanoidRootPart
